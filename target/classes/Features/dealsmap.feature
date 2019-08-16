@@ -18,3 +18,4 @@ Scenario: Free CRM Create a new deal scenario
 		| test deal3 | 3000 | 70 | 30 |
 		
 	Then Close the browser
+	
