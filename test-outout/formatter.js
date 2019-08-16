@@ -226,3 +226,4 @@ if (typeof module !== 'undefined') {
 } else if (typeof define !== 'undefined') {
   define([], function() { return CucumberHTML; });
 }
+
