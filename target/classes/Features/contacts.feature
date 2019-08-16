@@ -15,4 +15,4 @@ Examples:
 	| username | password | firstname | lastname | position |
 	| naveenk  | test@123 | Tom 	  | Peter    | Manager  |
 	| naveenk  | test@123 | David 	  | Dsouza   | Director |	
-	
+
