@@ -1,7 +1,7 @@
 Feature: Deal data creation 
 
 Scenario: Free CRM Create a new deal scenario 
-
+# Free CRM Create a new deal scenario using data table
 	Given user is already on Login Page 
 	When title of login page is Free CRM 
 	Then user enters username and password 
