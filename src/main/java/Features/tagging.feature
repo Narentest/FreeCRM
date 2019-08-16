@@ -71,5 +71,3 @@ Given This is a logout test
 
 Scenario: browser closed
 Given This is a close broswer test
-
-
