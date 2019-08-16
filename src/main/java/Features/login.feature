@@ -21,7 +21,6 @@ Then user clicks on login button
 Then user is on home page
 Then Close the browser
 
-
 Examples:
 	| username | password |
 	| naveenk  | test@123 |
