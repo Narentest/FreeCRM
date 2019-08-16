@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("/Users/NaveenKhunteta/Documents/workspace/FreeCrmBDDFramework/src/main/java/Features/taggedhooks.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("/Users/deekondaNarender/Documents/workspace/FreeCrmBDDFramework/src/main/java/Features/taggedhooks.feature");
 formatter.feature({
   "line": 1,
   "name": "Test Tagged Hooks",
